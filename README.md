@@ -6,5 +6,5 @@
 ## 使用方法
 本项目主要用于个人学习存档，可通过克隆仓库到本地，查看对应目录下的代码文件进行学习、参考或二次开发。
 
-1.  在本地终端执行'https://github.com/zhangsirai/zhanglinfeng.git'克隆仓库到本地
+1.  在 GitHub 网页端直接浏览仓库目录，点击对应的代码文件即可在线查看源码与注释。（https://github.com/zhangsirai/zhanglinfeng.git）
 2.  进入对应项目目录，根据文件说明运行代码或查看学习内容
